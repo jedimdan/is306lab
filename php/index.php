@@ -121,7 +121,7 @@
     <div class="brand-text"><strong>Open</strong>Shift</div>
   </a>
   <h1>
-    Welcome to OpenShift
+    Welcome to OpenShift, IS306!
   </h1>
   <p>
     Place your application here
